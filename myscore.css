@@ -1,0 +1,33 @@
+body{
+	background: #fff4ff
+}
+
+  fieldset {
+		 margin:0; padding:10px;
+		 border:1px solid #6bba70;
+		 background: #f9f9f9
+		 color:#fff;
+		 font: 14px Arial;
+	 }
+		  legend {
+		 margin:0 0 10px 0; padding:2px 5px;
+		 color:#6bba70;
+		 font-weight:bold;
+		 font: 26px Arial;
+ }
+
+ p,label {
+        margin:0; padding:0 0 10px 0;
+        color:#666;
+    }
+ input.txt {
+        border:1px solid #cdeb8b;;
+        font-weight:bold;
+        padding:1px 3px;
+    }
+		 input.submit {
+        border:3px double #cdeb8b;
+        background-color:#fff;
+        color:#6bba70;
+        font-weight:bold;
+    }
